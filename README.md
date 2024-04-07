@@ -29,4 +29,4 @@ ENPM661
 
 ## How to Run the Code:
 
-    git clone
+    git clone https://github.com/IshanMahesh/A_Star_Implementation_Using_Turtlebot.git
