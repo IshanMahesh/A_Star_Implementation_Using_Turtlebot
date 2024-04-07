@@ -49,4 +49,10 @@ Enter the following inputs:
     Enter the coordinates of Goal node (x,y):5750,100
     
     Enter rpm1,rpm2: 5,10
+
+Output Video:
+
+Link: https://drive.google.com/file/d/1NYKFlfsSCPhLPeSJHk0FXOuWjbfaKdDo/view?usp=sharing
+
+
     
