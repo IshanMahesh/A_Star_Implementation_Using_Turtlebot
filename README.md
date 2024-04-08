@@ -35,7 +35,7 @@ ENPM661
 
 Run the command below:
 
-    cd A_Star_Implementation_Using_Turtlebot
+    cd A_Star_Implementation_Using_Turtlebot/Part1_Ph2
     python3 a_star_abhey_ishan.py
 
 Enter the following inputs:
