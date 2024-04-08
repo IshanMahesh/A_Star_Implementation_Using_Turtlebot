@@ -56,6 +56,11 @@ Link: https://drive.google.com/file/d/1NYKFlfsSCPhLPeSJHk0FXOuWjbfaKdDo/view?usp
 
 ### Part 2
 
+#### Output Video:
+
+Link: https://drive.google.com/file/d/1gjI-YY3BFjCqiB-pEMKhIV2GlvbvIqK6/view?usp=sharing
+
+
 #### Open the terminal and run the following:
 
     #create a workspace
