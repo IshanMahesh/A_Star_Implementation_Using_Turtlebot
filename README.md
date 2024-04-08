@@ -33,12 +33,12 @@ ENPM661
 
 ### Part 1
 
-Run the command below:
+#### Run the command below:
 
     cd A_Star_Implementation_Using_Turtlebot/Part1_Ph2
     python3 a_star_abhey_ishan.py
 
-Enter the following inputs:
+#### Enter the following inputs:
     
     Enter the robot clearance (in mm): 5
     
@@ -49,15 +49,38 @@ Enter the following inputs:
     Enter the coordinates of Goal node (x,y):5750,1000
     
 
-Output Video:
+#### Output Video:
 
 Link: https://drive.google.com/file/d/1NYKFlfsSCPhLPeSJHk0FXOuWjbfaKdDo/view?usp=sharing
 
 
 ### Part 2
 
+#### Open the terminal and run the following:
 
-Enter the following inputs:
+    #create a workspace
+    cd /project3 ws
+
+    source install/setup.zsh
+
+    colcon build
+
+    ros2 launch turtlebot3_project3 competition_world.py
+
+
+
+#### In another terminal simultaneously run:
+
+    cd project3_ws
+
+    source install/setup.zsh
+
+    ros2 run turtlebot3_project3 astar.py
+
+
+
+
+#### Enter the following inputs:
     
     Enter the robot clearance (in mm): 5
     
