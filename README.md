@@ -69,6 +69,8 @@ Enter the following inputs:
     
     Enter rpm1,rpm2: 5,10
 
+Note: the following inputs above are being hardcoded [i.e already implemented in the code]
+
 
 
     
