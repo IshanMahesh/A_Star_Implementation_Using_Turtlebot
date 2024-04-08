@@ -1,5 +1,5 @@
 ### GitHub repository link
-# https://github.com/IshanMahesh/A-star-Algorithm-for-a-Mobile-Robot.git
+# https://github.com/IshanMahesh/A_Star_Implementation_Using_Turtlebot
 ###
 
 #Import important libraries 
