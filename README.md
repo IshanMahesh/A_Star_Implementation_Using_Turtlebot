@@ -58,8 +58,7 @@ Link: https://drive.google.com/file/d/1NYKFlfsSCPhLPeSJHk0FXOuWjbfaKdDo/view?usp
 
 #### Output Video:
 
-Link: https://drive.google.com/file/d/1gjI-YY3BFjCqiB-pEMKhIV2GlvbvIqK6/view?usp=sharing
-
+Link: https://drive.google.com/file/d/1d280lUseZ6i3Nwq-4se6-K_NOdSmtCfc/view?usp=sharing
 
 #### Open the terminal and run the following:
 
